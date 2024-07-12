@@ -1,3 +1,3 @@
 # AWS-SAP
 
-https://www.credly.com/badges/e602f44b-eddc-4ec4-a3b7-f57670cfc0a4/public_url
+![aws-certified-solutions-architect-professional](https://github.com/user-attachments/assets/a8f70c13-be78-4378-b414-5739efd4aab2)
